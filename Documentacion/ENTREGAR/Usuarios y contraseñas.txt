@@ -1,0 +1,31 @@
+<<Windos server proyecto>>
+
+	Administrador ---- P@ssw0rd
+
+<<NextCloud UB>>
+
+	manuel ---- P@ssw0rd
+	user-copias ---- P@ssw0rd
+
+<<Almacen>>
+
+	manuel ---- P@ssw0rd
+	user-copias ---- P@ssw0rd
+
+<<Firewall1 UB>>
+	
+	manuel ---- P@ssw0rd
+
+<<UB DB>>
+
+	manuel ---- P@ssw0rd
+	mysql ---- nextcloud-admin@192.168.0.20 // P@ssw0rd
+	
+<<w10 infor>>
+
+	informatica ---- P@ssw0rd
+
+<<USUARIOS NX>>
+
+	informatica ---- uD+0L=882I
+	nxc_admin ---- P@ssw0rd
